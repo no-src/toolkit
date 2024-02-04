@@ -53,4 +53,8 @@ var Tools = []Config{
 		[]string{"gofs"},
 		[]string{"https://github.com/no-src/gofs"},
 	},
+	{
+		[]string{"jwt"},
+		[]string{"https://jwt.io"},
+	},
 }
