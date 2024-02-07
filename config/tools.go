@@ -57,4 +57,8 @@ var Tools = []Config{
 		[]string{"jwt"},
 		[]string{"https://jwt.io"},
 	},
+	{
+		[]string{"ebpf"},
+		[]string{"https://ebpf.io"},
+	},
 }
